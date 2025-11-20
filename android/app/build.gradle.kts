@@ -40,7 +40,7 @@ android {
 }
 
 flutter {
-    source = "../.."b
+    source = "../.."
 }
 
 apply(plugin = "com.google.gms.google-services")
